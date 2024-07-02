@@ -8,7 +8,7 @@ This Program provides various function that includes:
   -  Updating an existing Contact one at a time
   -  Deletion of an existing Contact(s)
   -  Sorting the Contacts.
-    On the basis of :
+    on the basis of :
     - Name
     - Phone No.
     - Email
