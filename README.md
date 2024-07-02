@@ -19,5 +19,7 @@ This Program provides various function that includes:
   - Shows shortcut 
 > A user can use keyboard shortcuts that are
 >> Control-A To select all records
+
 >> Del key - To delete selected records
+
 >> Esc key - To deselect the selected records  
