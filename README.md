@@ -1,4 +1,4 @@
-# Codsoft Task 5: Contact Book Using Python
+# Contact Book -GUI based Using Python
 
 _This task involves creating a Contact Book using Python's Tkinter module._
 
